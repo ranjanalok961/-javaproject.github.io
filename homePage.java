@@ -157,5 +157,5 @@ public class homePage extends JFrame {
         frame.setResizable(true);
         frame.setBackground(Color.LIGHT_GRAY);
 
-    }
+   }
 }
